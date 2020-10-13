@@ -9,7 +9,7 @@ const Header: React.SFC = () => {
   return (
     <div>
       <Link href="/">
-        <a style={linkStyle}>Home</a>
+        <a style={linkStyle}>About</a>
       </Link>
       <Link href="/itemList">
         <a style={linkStyle}>Item List</a>
